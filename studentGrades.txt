@@ -1,0 +1,11 @@
+Richard		83
+Frank		90
+Daniel		100
+Joe		70
+Stupid		24
+Mario		62
+Angel		87
+Charlie		80
+Jacob		97
+Sebastian	73
+John		76
